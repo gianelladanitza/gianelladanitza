@@ -6,3 +6,13 @@ Me encuentras en facebook e instagram
 ## Languages
 - Español
 - Ingles
+## Hobbies
+- Leer
+- Escuchar música
+## Skills
+1. Resolución de problemas
+2. Clientes conflictivos
+## Technologies
+- HTML
+- CSS
+- Excel
