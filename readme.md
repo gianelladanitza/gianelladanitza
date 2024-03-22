@@ -6,3 +6,10 @@ Me encuentras en facebook e instagram
 ## Hobbies
 - Leer
 - Escuchar música
+## Skills
+1. Resolución de problemas
+2. Clientes conflictivos
+## Technologies
+- HTML
+- CSS
+- Excel
